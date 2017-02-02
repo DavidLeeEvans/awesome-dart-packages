@@ -33,6 +33,7 @@ Name | Repository | License
 Name | Repository | License
 ---- | ---------- | ------
 [event_bus](https://pub.dartlang.org/packages/event_bus) | https://github.com/marcojakob/dart-event-bus | [MIT](https://github.com/marcojakob/dart-event-bus/blob/master/LICENSE)
+[frappe](https://pub.dartlang.org/packages/frappe) | https://github.com/danschultz/frappe | [MIT](https://github.com/danschultz/frappe/blob/master/LICENSE)
 [pool](https://pub.dartlang.org/packages/pool) | https://github.com/dart-lang/pool | [BSD](https://github.com/dart-lang/pool/blob/master/LICENSE)
 [rxdart](https://pub.dartlang.org/packages/rxdart) | https://github.com/frankpepermans/rxdart | [Apache](https://github.com/frankpepermans/rxdart/blob/master/LICENSE)
 [stream_channel](https://pub.dartlang.org/packages/stream_channel) | https://github.com/dart-lang/stream_channel | [BSD](https://github.com/dart-lang/stream_channel/blob/master/LICENSE)
